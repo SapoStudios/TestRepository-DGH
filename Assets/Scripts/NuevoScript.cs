@@ -5,5 +5,5 @@ using UnityEngine;
 public class NuevoScript : MonoBehaviour
 {
    ////// SCRIPT DE PRUEBA
-   ///// EDITADO 2
+   ///// CARPETA 1
 }
